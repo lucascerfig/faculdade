@@ -1,3 +1,7 @@
+// Aluno: Lucas Cerqueira Figueiredo - TIA: 3182482-1
+// Atividade - Ponto Cartesiano e Operações em Java
+// Paradigmas de Linguagens de Programação (05N)
+
 package ponto;
 
 public class Main{
